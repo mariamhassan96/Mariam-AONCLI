@@ -1,0 +1,6 @@
+@AonCliRunner_HostAddress = http://localhost:5090
+
+GET {{AonCliRunner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
